@@ -14,21 +14,26 @@ Me inicié en el mundo de las tecnologías allá en el 2017 , estudiando doble m
 Actualmente trabajo para una consultoría de IBM , y a la par voy ampliando mis conocimientos además de mi hobbie preferido, el mundo de modding, por el que he desarrollado modificaciones de varios videojuegos top del mercado.
 
 ## Skills:
-
-</br>
-
-</br>
+[![HTML5](https://img.shields.io/badge/HTML5-E3721E?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-229AD6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-F11E0D?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Jquery](https://img.shields.io/badge/Jquery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
-</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-F8F8F8?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![LESS](https://img.shields.io/badge/Less-F8F8F8?style=for-the-badge&logo=less&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/csharp-F8F8F8?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+
 </br>
 
+Actualmente mejorando en:
+
+[![VUE.JS](https://img.shields.io/badge/Vue.js-15B34C?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=101010)]()
+[![LUA](https://img.shields.io/badge/lua-A934F0?style=for-the-badge&logo=lua&logoColor=white&labelColor=101010)]()
 
 ## Redes Sociales:
 
@@ -55,5 +60,5 @@ RDRZ es una framework adaptado para crear una modificación sobre el juego Red D
 Si deseas mas información o quieres aportar tu granito de arena puedes acceder al discord oficial:
 
 [![Web](https://img.shields.io/badge/rdrz.es-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](#)
-[![Discord](https://img.shields.io/badge/Discord-Feedback_and_bugs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/invite/mypZfNqy35)
-</br>)
+[![Discord](https://img.shields.io/badge/Discord-RDRZ-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/invite/mypZfNqy35)
+</br>

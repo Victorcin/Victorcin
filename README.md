@@ -35,7 +35,7 @@ Actualmente trabajo para una consultoría de IBM , y a la par voy ampliando mis 
 [![Twitch](https://img.shields.io/badge/Twitch-victor94-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/victor94)
 [![Discord](https://img.shields.io/badge/Discord-victor94-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@victor94-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Twitter](https://img.shields.io/badge/Twitter-@victor94-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/victor94_)
 [![Instagram](https://img.shields.io/badge/Instagram-@victorcin94-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/victorcin94)
 [![Facebook](https://img.shields.io/badge/Facebook-@victor94.contrerasgalan-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/victor94.contrerasgalan)
 </br>

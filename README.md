@@ -49,16 +49,4 @@ Actualmente mejorando en:
 
 ## Proyectos actuales:
 
-<em><h5 align="center">Framework para servidores REDM</h5></em>
-
-<p align="center">Servidor rolplay apocaliptico para RedM</p>
-
-![Screenshot 1](https://pbs.twimg.com/media/E56KUx-XEAEjt3g?format=png&name=900x900)
-
-RDRZ es una framework adaptado para crear una modificación sobre el juego Red Dead Redemption 2.Esta modificación esta ambientada en el modo roleplay (modo de juego actualmente en alza) para el tema western.El framework se basa en la plataforma [!RedM](https://redm.net/)
-
-Si deseas mas información o quieres aportar tu granito de arena puedes acceder al discord oficial:
-
-[![Web](https://img.shields.io/badge/rdrz.es-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](#)
-[![Discord](https://img.shields.io/badge/Discord-RDRZ-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/invite/mypZfNqy35)
-</br>
+SOON

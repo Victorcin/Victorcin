@@ -37,12 +37,15 @@ Mi foco ahora es la IA aplicada al negocio. Con un Máster en Inteligencia Artif
 
 ## Desarrollo Profesional:
 </br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Contreras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victorcontrerasgal94/)
-[![Web](https://img.shields.io/badge/My_Website-Victor94.club-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://victorcontreras.dev/es)
+[![Web](https://img.shields.io/badge/Porfolio-victorcontreas.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://victorcontreras.dev/es)
+[![MasterIA](https://img.shields.io/badge/Master-IA-bigschool-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=105453)](https://credsverse.com/credentials/95b5cb48-193a-4705-bf0a-eabba6452605?preview=1)
 
 ## Redes Sociales:
 
 </br>
+
 [![Twitter](https://img.shields.io/badge/Twitter-@victor94-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/victor94_)
 [![Instagram](https://img.shields.io/badge/Instagram-@victorcin94-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/victorcin94)
 

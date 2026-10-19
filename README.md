@@ -1,6 +1,6 @@
 ### Hello, my name is Victor Contreras 👋
 
-# ![https://victor94.club](https://gyazo.com/2499ac535231ee3cf0228c11a0349818.png)
+# ![https://victorcontreras.dev](https://i.imgur.com/LjHEURl.png)
 
 ### Full-Stack Javascript
 

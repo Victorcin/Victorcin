@@ -38,9 +38,10 @@ Mi foco ahora es la IA aplicada al negocio. Con un Máster en Inteligencia Artif
 ## Desarrollo Profesional:
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Contreras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/victorcontrerasgal94/)
-[![Web](https://img.shields.io/badge/Porfolio-victorcontreas.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://victorcontreras.dev/es)
-[![MasterIA](https://img.shields.io/badge/Master-IA-bigschool-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=105453)](https://credsverse.com/credentials/95b5cb48-193a-4705-bf0a-eabba6452605?preview=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Contreras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=128647)](https://www.linkedin.com/in/victorcontrerasgal94/)
+[![Web](https://img.shields.io/badge/Porfolio-victorcontreas.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=132585)](https://victorcontreras.dev/es)
+[![MasterIA](https://img.shields.io/badge/Master_IA-bigschool-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=102405)](https://victorcontreras.dev/es)
+
 
 ## Redes Sociales:
 
